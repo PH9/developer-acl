@@ -135,5 +135,6 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 
 Include [JVM Devloper](#jvm-developer)
 
+- jitpack.io - Dependencies
 - dl.google.com - Dependencies
 - developer.android.com - Documents

@@ -131,7 +131,7 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 - repo.maven.apache.org
 - search.maven.org
 - services.gradle.org - Gradle
-- jcenterbintray.com
+- jcenter.bintray.com
 
 ## Android Developer
 

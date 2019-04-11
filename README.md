@@ -116,6 +116,13 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 - overflow.io - UI and flow
 - trello.com - Team board
 
+## Visual Studio Code
+
+- marketplace.visualstudio.com
+- dc.services.visualstudio.com
+- update.code.visualstudio.com
+- insiders.liveshare.vsengsaas.visualstudio.com - [Live Share](https://visualstudio.microsoft.com/services/live-share/) feature
+
 ## JVM Developer
 
 - download.oracle.com
@@ -123,13 +130,7 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 - mvnrepository.com
 - repo.maven.apache.org
 - search.maven.org
-
-## Visual Studio Code
-
-- marketplace.visualstudio.com
-- dc.services.visualstudio.com
-- update.code.visualstudio.com
-- insiders.liveshare.vsengsaas.visualstudio.com - [Live Share](https://visualstudio.microsoft.com/services/live-share/) feature
+- services.gradle.org - Gradle
 
 ## Android Developer
 
@@ -138,3 +139,4 @@ Include [JVM Devloper](#jvm-developer)
 - jitpack.io - Dependencies
 - dl.google.com - Dependencies
 - developer.android.com - Documents
+- d.android.com

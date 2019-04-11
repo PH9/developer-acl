@@ -130,3 +130,7 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 - dc.services.visualstudio.com
 - update.code.visualstudio.com
 - insiders.liveshare.vsengsaas.visualstudio.com
+
+## Android Developer
+
+- dl.google.com

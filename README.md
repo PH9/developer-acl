@@ -50,33 +50,33 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 
 ### Apple
 
-- apple.com
-- www.apple.com
-- appleid.apple.com
-- iforgot.apple.com
-- idmsa.apple.com
+- apple.com - CSS, JavaScript
+- www.apple.com - CSS, JavaScript
+- appleid.apple.com - Apple ID
+- iforgot.apple.com - Apple ID
+- idmsa.apple.com - Apple ID
 - developerservices2.apple.com
-- developer.apple.com
-- itunesconnect.apple.com
-- appstoreconnect.apple.com
-- du-itc.appstoreconnect.apple.com
-- support.apple.com
+- developer.apple.com - Developer Portal
+- itunesconnect.apple.com - App Store
+- appstoreconnect.apple.com - App Store (new name)
+- du-itc.appstoreconnect.apple.com - Upload ipa
+- support.apple.com - Documents
 - itunes.apple.com
-- olympus.itunes.apple.com
+- olympus.itunes.apple.com - License
 - analytics.itunes.apple.com
 - iosapps.itunes.apple.com
-- a911.phobos.apple.com
-- a1713.phobos.apple.com
-- a1846.phobos.apple.com
-- a1988.phobos.apple.com
-- help.apple.com
+- iosapps.itunes.apple.com
+- analytics.itunes.apple.com
+- contentdelivery.itunes.apple.com
+- a911.phobos.apple.com - Caches
+- a1713.phobos.apple.com - Caches
+- a1846.phobos.apple.com - Caches
+- a1988.phobos.apple.com - Caches
+- help.apple.com - Documents
 - bugreport.apple.com
 - p44-contacts.icloud.com
 - ocsp.apple.com
-- iosapps.itunes.apple.com
 - appstoreconnect.apple.com
-- analytics.itunes.apple.com
-- contentdelivery.itunes.apple.com
 - devimages-cdn.apple.com
 - itmsdav.apple.com
 - api-glb-sin.smoot.apple.com
@@ -100,8 +100,8 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 
 ## Notification & Collaboration
 
-- developers.line.me
-- api.line.me
+- developers.line.me - Documents, Developer Portal
+- api.line.me - API
 - gd2s.line.naver.jp
 - lan.line.me
 - profile.line-scdn.net
@@ -129,8 +129,11 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 - marketplace.visualstudio.com
 - dc.services.visualstudio.com
 - update.code.visualstudio.com
-- insiders.liveshare.vsengsaas.visualstudio.com
+- insiders.liveshare.vsengsaas.visualstudio.com - [Live Share](https://visualstudio.microsoft.com/services/live-share/) feature
 
 ## Android Developer
 
-- dl.google.com
+Include [JVM Devloper](#jvm-developer)
+
+- dl.google.com - Dependencies
+- developer.android.com - Documents

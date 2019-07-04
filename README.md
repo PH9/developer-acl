@@ -9,6 +9,7 @@ Whitelist for developer please contribute. Add or remove with reason is welcome.
 - github.com
 - api.github.com
 - gist.github.com
+- gist.githubusercontent.com
 - live.github.com
 - codeload.github.com
 - *.github.io
